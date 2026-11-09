@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Add Sitemap: https://your-real-domain.example/sitemap.xml after domain configuration.
