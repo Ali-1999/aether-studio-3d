@@ -31,7 +31,7 @@
 
   // Interactive technology ecosystem — based on the candidate's supplied CV and project context.
   const technologies = [
-    {name:'HTML5',cat:'frontend',label:'Frontend',symbol:'5',desc:'Used to structure responsive web pages and accessible website interfaces.',used:'Frontend implementation and website page development.',projects:[{label:'Degenrex',url:'https://degenrex.com'}]},
+    {name:'HTML5',cat:'frontend',label:'Frontend',symbol:'5',desc:'Used to structure responsive web pages and accessible website interfaces.',used:'Frontend implementation and website page development.',projects:[]},
     {name:'CSS3',cat:'frontend',label:'Frontend',symbol:'3',desc:'Used to build responsive layouts, visual systems and polished website interfaces.',used:'Responsive styling and interface refinement.',projects:[{label:'Degenrex',url:'https://degenrex.com'}]},
     {name:'JavaScript',cat:'frontend',label:'Frontend',symbol:'JS',desc:'Used to add interactive behaviour and client-side functionality to websites.',used:'Frontend development and interactive website features.',projects:[{label:'GitHub profile',url:'https://github.com/Ali-1999'}]},
     {name:'jQuery',cat:'frontend',label:'Frontend',symbol:'jq',desc:'A JavaScript library included in the candidate’s stated frontend toolkit.',used:'Listed in the supplied technical skills; specific project attribution is not currently documented.',projects:[]},
@@ -40,7 +40,7 @@
     {name:'CodeIgniter',cat:'backend',label:'Backend',symbol:'CI',desc:'PHP framework experience for database-driven web applications.',used:'Developed and maintained CodeIgniter applications at Marksols.',projects:[{label:'GitHub profile',url:'https://github.com/Ali-1999'}]},
     {name:'MySQL',cat:'data',label:'Database',symbol:'SQL',desc:'Relational database technology included in the candidate’s development toolkit.',used:'Database technology listed in the supplied technical profile.',projects:[]},
     {name:'MongoDB',cat:'data',label:'Database',symbol:'MDB',desc:'Document database technology included in the candidate’s development toolkit.',used:'Database technology listed in the supplied technical profile.',projects:[]},
-    {name:'WordPress',cat:'cms',label:'CMS',symbol:'W',desc:'CMS experience across website content migration, maintenance and site management.',used:'Migrated website content to WordPress and managed WordPress updates and migrations.',projects:[{label:'Veraco',url:'https://veraco.co.uk'}]},
+    {name:'WordPress',cat:'cms',label:'CMS',symbol:'W',desc:'CMS experience across website content migration, maintenance and site management.',used:'Migrated website content to WordPress and managed WordPress updates and migrations.',projects:[]},
     {name:'WooCommerce',cat:'cms',label:'E-commerce',symbol:'WC',desc:'E-commerce platform experience relevant to product catalogues and online store workflows.',used:'Included in the candidate’s e-commerce and WordPress project experience.',projects:[{label:'Applinovo',url:'https://applinovo.com'}]},
     {name:'Webflow',cat:'cms',label:'CMS',symbol:'WF',desc:'Website platform experience supporting web content and frontend implementation.',used:'Supported Webflow website development and content implementation.',projects:[{label:'GitHub profile',url:'https://github.com/Ali-1999'}]},
     {name:'Git',cat:'infra',label:'Version control',symbol:'GIT',desc:'Version-control tooling used in software development workflows.',used:'Included in the candidate’s development toolset.',projects:[{label:'GitHub profile',url:'https://github.com/Ali-1999'}]},
